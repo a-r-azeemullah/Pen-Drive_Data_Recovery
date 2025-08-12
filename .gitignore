@@ -1,0 +1,34 @@
+# ===== OS-specific files =====
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# ===== Temporary files =====
+*.tmp
+*.temp
+*.log
+*.bak
+*~
+
+# ===== Editor / IDE configs =====
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# ===== Cache / Generated files =====
+.cache/
+dist/
+build/
+
+# ===== Misc =====
+# Ignore any local test files or scratch work not meant for repo
+scratch/
+local-test/
