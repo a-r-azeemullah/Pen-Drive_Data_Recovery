@@ -72,9 +72,6 @@ Two friends accidentally formatted a pen-drive while connecting to TV 📺, losi
 * 🗂️ Navigate *Folder*.
 * 📍 Use **Open location** to pinpoint files.
 
-###  Mark Files/Folders
-
-* ✅ Select files/folders (Ctrl/Shift for multiple).
 
 ### 5️⃣ Recover (to Another Drive Only)
 
